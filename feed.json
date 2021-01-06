@@ -1,0 +1,18 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Makzan Micro Blog",
+	"icon": "https://micro.blog/makzan/avatar.jpg",
+	"home_page_url": "https://makzan.micro.blog/",
+	"feed_url": "https://makzan.micro.blog/feed.json",
+	"items": [
+		
+			{
+				"id": "http://makzan.micro.blog/2021/01/06/hello-world-i.html",
+				
+				"content_html": "<p>Hello world.</p>\n\n<p>I have heard about micro.blog for years but haven’t got a chance to give it a try. And here I am. Hello micro.blog.</p>\n",
+				"content_text": "Hello world.\n\nI have heard about micro.blog for years but haven’t got a chance to give it a try. And here I am. Hello micro.blog.\n",
+				"date_published": "2021-01-06T14:40:13+08:00",
+				"url": "https://makzan.micro.blog/2021/01/06/hello-world-i.html"
+			}
+	]
+}
