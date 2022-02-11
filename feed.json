@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://makzan.micro.blog/2022/02/11/hi-again-im.html",
+				
+				"content_html": "<p>Hi again, I’m back to micro.blog.</p>\n",
+				"content_text": "Hi again, I’m back to micro.blog. \n",
+				"date_published": "2022-02-11T16:38:10+08:00",
+				"url": "https://micro.makzan.blog/2022/02/11/hi-again-im.html"
+			},
+			{
+				"id": "http://makzan.micro.blog/2021/02/25/trying-amplenote.html",
+				"title": "Trying Amplenote",
+				"content_html": "<p>In this month, I have been using a note taking app called Amplenote. It is like a hybrid of Roam and Evernote.</p>\n\n<p><audio controls=\"controls\" src=\"https://micro.makzan.blog/uploads/2021/7e1bb6a1be.mp3\" preload=\"metadata\" /></p>\n",
+				"content_text": "In this month, I have been using a note taking app called Amplenote. It is like a hybrid of Roam and Evernote. \n\n<audio controls=\"controls\" src=\"https://micro.makzan.blog/uploads/2021/7e1bb6a1be.mp3\" preload=\"metadata\" />\n",
+				"date_published": "2021-02-25T13:14:10+08:00",
+				"url": "https://micro.makzan.blog/2021/02/25/trying-amplenote.html"
+			},
+			{
+				"id": "http://makzan.micro.blog/2021/02/25/reading-the-only.html",
+				
+				"content_html": "<p>Reading:  <a href=\"https://world.hey.com/jason/the-only-metric-that-matters-ada11073\">The only metric that matters</a></p>\n\n<blockquote>\n<p>But there is one metric that&rsquo;s always on my mind. It&rsquo;s not a number, it&rsquo;s a feeling.</p>\n\n<p>&ldquo;Would I want to do that again?&rdquo;</p>\n</blockquote>\n",
+				"content_text": "Reading:  [The only metric that matters](https://world.hey.com/jason/the-only-metric-that-matters-ada11073)\r\n\r\n> But there is one metric that's always on my mind. It's not a number, it's a feeling.\r\n\r\n> \"Would I want to do that again?\"\n",
+				"date_published": "2021-02-25T13:00:16+08:00",
+				"url": "https://micro.makzan.blog/2021/02/25/reading-the-only.html"
+			},
+			{
+				"id": "http://makzan.micro.blog/2021/02/24/reading-how-money.html",
+				
+				"content_html": "<p>Reading:  <a href=\"https://world.hey.com/jonas/how-money-dictates-design-decisions-5e866cd9\">How money dictates design decisions</a></p>\n\n<blockquote>\n<p>If you&rsquo;re currently using a service that either&hellip;</p>\n\n<p>Doesn&rsquo;t have a business model yet, or<br />\nHas an ad-based business model</p>\n\n<p>&hellip;your attention and data are being abused in some way.</p>\n</blockquote>\n",
+				"content_text": "Reading:  [How money dictates design decisions](https://world.hey.com/jonas/how-money-dictates-design-decisions-5e866cd9)\r\n\r\n> If you're currently using a service that either...\r\n> \r\nDoesn't have a business model yet, or  \r\nHas an ad-based business model\r\n\r\n> ...your attention and data are being abused in some way.\n",
+				"date_published": "2021-02-24T17:56:15+08:00",
+				"url": "https://micro.makzan.blog/2021/02/24/reading-how-money.html"
+			},
+			{
 				"id": "http://makzan.micro.blog/2021/02/21/finally-bought-my.html",
 				
 				"content_html": "<p>Finally bought my second Apple Watch, since 2015 April.</p>\n\n<p><img src=\"uploads/2021/fc47428a69.jpg\" width=\"368\" height=\"448\" alt=\"\" /></p>\n",
