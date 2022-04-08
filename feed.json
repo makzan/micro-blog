@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://makzan.micro.blog/2022/04/08/overthinking-is-so.html",
+				
+				"content_html": "<p>“Overthinking is so tempting because it mimics progress.”—Peter Hollins, Finish What You Start\n#quote #book</p>\n\n<p><img src=\"uploads/2022/1370922a0b.png\" width=\"600\" height=\"337\" alt=\"\" /></p>\n",
+				"content_text": "“Overthinking is so tempting because it mimics progress.”—Peter Hollins, Finish What You Start\n#quote #book\n\n<img src=\"uploads/2022/1370922a0b.png\" width=\"600\" height=\"337\" alt=\"\" />\n",
+				"date_published": "2022-04-08T11:42:51+08:00",
+				"url": "https://micro.makzan.blog/2022/04/08/overthinking-is-so.html"
+			},
+			{
+				"id": "http://makzan.micro.blog/2022/03/18/another-way-to.html",
+				
+				"content_html": "<p>“Another way to mitigate procrastination is to start in small, easy increments.”–Peter Hollins, Finish What You Start #book #quote</p>\n\n<p><img src=\"uploads/2022/a3a7a3561c.png\" width=\"600\" height=\"336\" alt=\"\" /></p>\n",
+				"content_text": "“Another way to mitigate procrastination is to start in small, easy increments.”–Peter Hollins, Finish What You Start #book #quote\n\n<img src=\"uploads/2022/a3a7a3561c.png\" width=\"600\" height=\"336\" alt=\"\" />\n",
+				"date_published": "2022-03-18T11:48:10+08:00",
+				"url": "https://micro.makzan.blog/2022/03/18/another-way-to.html"
+			},
+			{
 				"id": "http://makzan.micro.blog/2022/03/17/ship-less-features.html",
 				
 				"content_html": "<p>“Ship less features, but quality features.” –Jason Fried, David Heinemeier Hansson, Matthew Linderman, and 37signals, Getting Real #book #quote</p>\n\n<p><img src=\"uploads/2022/374dd4e2e0.png\" width=\"600\" height=\"337\" alt=\"\" /></p>\n",
