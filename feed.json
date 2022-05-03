@@ -7,6 +7,46 @@
 	"items": [
 		
 			{
+				"id": "http://makzan.micro.blog/2022/05/04/oh-signals-becomes.html",
+				
+				"content_html": "<p>Oh. 37signals becomes 37signals again.</p>\n",
+				"content_text": "Oh. 37signals becomes 37signals again. \n",
+				"date_published": "2022-05-04T02:42:02+08:00",
+				"url": "https://micro.makzan.blog/2022/05/04/oh-signals-becomes.html"
+			},
+			{
+				"id": "http://makzan.micro.blog/2022/05/01/153641.html",
+				
+				"content_html": "<p>讀《豐盛心態》</p>\n\n<p><img src=\"uploads/2022/75ab477c11.jpg\" width=\"599\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "讀《豐盛心態》\n\n<img src=\"uploads/2022/75ab477c11.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-05-01T15:36:41+08:00",
+				"url": "https://micro.makzan.blog/2022/05/01/153641.html"
+			},
+			{
+				"id": "http://makzan.micro.blog/2022/04/30/nintendo-sport-bought.html",
+				
+				"content_html": "<p>Nintendo Sport, bought. Downloading.</p>\n",
+				"content_text": "Nintendo Sport, bought. Downloading. \n",
+				"date_published": "2022-04-30T20:37:57+08:00",
+				"url": "https://micro.makzan.blog/2022/04/30/nintendo-sport-bought.html"
+			},
+			{
+				"id": "http://makzan.micro.blog/2022/04/29/people-arent-working.html",
+				
+				"content_html": "<p>“People aren’t working longer and later because there’s more work to do all of a sudden. People are working longer and later because they can’t get work done at work anymore!”—Jason Fried, David Heinemeier Hansson, It Doesn&rsquo;t Have to Be Crazy at Work #book #quote</p>\n\n<p><img src=\"uploads/2022/a917f6090e.png\" width=\"600\" height=\"337\" alt=\"\" /></p>\n",
+				"content_text": "“People aren’t working longer and later because there’s more work to do all of a sudden. People are working longer and later because they can’t get work done at work anymore!”—Jason Fried, David Heinemeier Hansson, It Doesn't Have to Be Crazy at Work #book #quote\n\n<img src=\"uploads/2022/a917f6090e.png\" width=\"600\" height=\"337\" alt=\"\" />\n",
+				"date_published": "2022-04-29T13:24:09+08:00",
+				"url": "https://micro.makzan.blog/2022/04/29/people-arent-working.html"
+			},
+			{
+				"id": "http://makzan.micro.blog/2022/04/26/logseq-obsidian.html",
+				
+				"content_html": "<p>Logseq 和 Obsidian 的分別：</p>\n\n<p><img src=\"uploads/2022/45e074a31c.jpg\" width=\"600\" height=\"479\" alt=\"\" /></p>\n",
+				"content_text": "Logseq 和 Obsidian 的分別：\n\n<img src=\"uploads/2022/45e074a31c.jpg\" width=\"600\" height=\"479\" alt=\"\" />\n",
+				"date_published": "2022-04-26T16:53:46+08:00",
+				"url": "https://micro.makzan.blog/2022/04/26/logseq-obsidian.html"
+			},
+			{
 				"id": "http://makzan.micro.blog/2022/04/26/using-logseq-again.html",
 				
 				"content_html": "<p>Using Logseq again after quit using it for months.</p>\n",
