@@ -7,42 +7,138 @@
 	"items": [
 		
 			{
+				"id": "http://makzan.micro.blog/2022/08/15/css-gradients-in.html",
+				
+				"content_html": "<p>麥誠直播 #5 CSS Gradients in 25 minutes: 11:30pm</p>\n\n<ul>\n<li>Weekly updates</li>\n<li>CSS gradients</li>\n<li>Subtle background gradient movement</li>\n<li>Body wave animation</li>\n</ul>\n\n<p><a href=\"https://www.youtube.com/watch?v=joaanMxMZL4\">www.youtube.com/watch</a></p>\n",
+				"content_text": "麥誠直播 #5 CSS Gradients in 25 minutes: 11:30pm\n\n- Weekly updates\n- CSS gradients\n- Subtle background gradient movement\n- Body wave animation\n\n[www.youtube.com/watch](https://www.youtube.com/watch?v=joaanMxMZL4)\n",
+				"date_published": "2022-08-15T23:05:47+08:00",
+				"url": "https://micro.makzan.blog/2022/08/15/css-gradients-in.html"
+			},
+			{
+				"id": "http://makzan.micro.blog/2022/08/15/python-books.html",
+				
+				"content_html": "<p>Python books. 📚</p>\n\n<p><img src=\"uploads/2022/1dadd99b35.jpg\" width=\"480\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Python books. 📚\n\n<img src=\"uploads/2022/1dadd99b35.jpg\" width=\"480\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-08-15T19:49:51+08:00",
+				"url": "https://micro.makzan.blog/2022/08/15/python-books.html"
+			},
+			{
+				"id": "http://makzan.micro.blog/2022/08/13/in-other-words.html",
+				
+				"content_html": "<p>“In other words, don’t talk about your features, benefits, and shining moons. Tell me—better yet, show me—why they matter to me.”—Ann Handley, Everybody Writes #writing #skill</p>\n\n<p><img src=\"uploads/2022/63ba6bb41c.png\" width=\"600\" height=\"337\" alt=\"\" /></p>\n",
+				"content_text": "“In other words, don’t talk about your features, benefits, and shining moons. Tell me—better yet, show me—why they matter to me.”—Ann Handley, Everybody Writes #writing #skill\n\n<img src=\"uploads/2022/63ba6bb41c.png\" width=\"600\" height=\"337\" alt=\"\" />\n",
+				"date_published": "2022-08-13T15:54:39+08:00",
+				"url": "https://micro.makzan.blog/2022/08/13/in-other-words.html"
+			},
+			{
+				"id": "http://makzan.micro.blog/2022/08/13/me-last-weekend.html",
+				
+				"content_html": "<p>Me. Last weekend at UMac.</p>\n\n<p><img src=\"uploads/2022/c13ba77864.jpg\" width=\"599\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Me. Last weekend at UMac. \n\n<img src=\"uploads/2022/c13ba77864.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-08-13T11:03:05+08:00",
+				"url": "https://micro.makzan.blog/2022/08/13/me-last-weekend.html"
+			},
+			{
+				"id": "http://makzan.micro.blog/2022/08/11/214612.html",
+				
+				"content_html": "<p>這幾日研究了雙幣理財的風險。</p>\n",
+				"content_text": "這幾日研究了雙幣理財的風險。\n",
+				"date_published": "2022-08-11T21:46:12+08:00",
+				"url": "https://micro.makzan.blog/2022/08/11/214612.html"
+			},
+			{
+				"id": "http://makzan.micro.blog/2022/08/10/by-labeling-our.html",
+				
+				"content_html": "<p>“By labeling our notes when they are being used, instead of when they are created, we move the work of tagging as close as possible to the problem it is meant to solve.”—Tiago Forte, Ways of Knowing</p>\n\n<p><img src=\"uploads/2022/88c0ee85ee.png\" width=\"600\" height=\"337\" alt=\"\" /></p>\n",
+				"content_text": "“By labeling our notes when they are being used, instead of when they are created, we move the work of tagging as close as possible to the problem it is meant to solve.”—Tiago Forte, Ways of Knowing\n\n<img src=\"uploads/2022/88c0ee85ee.png\" width=\"600\" height=\"337\" alt=\"\" />\n",
+				"date_published": "2022-08-10T13:27:43+08:00",
+				"url": "https://micro.makzan.blog/2022/08/10/by-labeling-our.html"
+			},
+			{
+				"id": "http://makzan.micro.blog/2022/08/10/120556.html",
+				
+				"content_html": "<p>看書、飲諾麗果酵素、和家人在一起，人生三大樂事。</p>\n\n<p><img src=\"uploads/2022/cbf5747581.jpg\" width=\"480\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "看書、飲諾麗果酵素、和家人在一起，人生三大樂事。\n\n<img src=\"uploads/2022/cbf5747581.jpg\" width=\"480\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-08-10T12:05:56+08:00",
+				"url": "https://micro.makzan.blog/2022/08/10/120556.html"
+			},
+			{
+				"id": "http://makzan.micro.blog/2022/08/10/to-achieve-great.html",
+				
+				"content_html": "<p>“To achieve great things, two things are needed; a plan, and not quite enough time.”—Ken Segall, Insanely Simple</p>\n\n<p><img src=\"uploads/2022/0fc6c07c0b.png\" width=\"600\" height=\"336\" alt=\"\" /></p>\n",
+				"content_text": "“To achieve great things, two things are needed; a plan, and not quite enough time.”—Ken Segall, Insanely Simple\n\n<img src=\"uploads/2022/0fc6c07c0b.png\" width=\"600\" height=\"336\" alt=\"\" />\n",
+				"date_published": "2022-08-10T08:45:00+08:00",
+				"url": "https://micro.makzan.blog/2022/08/10/to-achieve-great.html"
+			},
+			{
+				"id": "http://makzan.micro.blog/2022/08/09/if-you-want.html",
+				
+				"content_html": "<p>“If you want to cut your learning curve dramatically, learn with the intention of teaching the information to someone else.”—Jim Kwik, Limitless</p>\n\n<p><img src=\"https://micro.makzan.blog/uploads/2022/40e6893aa2.png\" width=\"600\" height=\"337\" alt=\"\" /></p>\n",
+				"content_text": "“If you want to cut your learning curve dramatically, learn with the intention of teaching the information to someone else.”—Jim Kwik, Limitless\n\n<img src=\"https://micro.makzan.blog/uploads/2022/40e6893aa2.png\" width=\"600\" height=\"337\" alt=\"\" />\n",
+				"date_published": "2022-08-09T08:50:00+08:00",
+				"url": "https://micro.makzan.blog/2022/08/09/if-you-want.html"
+			},
+			{
+				"id": "http://makzan.micro.blog/2022/08/09/insta-link.html",
+				
+				"content_html": "<p>Insta360 Link 很適合遙距上課教學用。</p>\n\n<p><img src=\"uploads/2022/8b37d8669b.jpg\" width=\"600\" height=\"374\" alt=\"\" /><img src=\"uploads/2022/86a929c950.jpg\" width=\"600\" height=\"374\" alt=\"\" /><img src=\"uploads/2022/05df66b27f.jpg\" width=\"600\" height=\"374\" alt=\"\" /><img src=\"uploads/2022/2e52b0b130.png\" width=\"600\" height=\"277\" alt=\"\" /></p>\n",
+				"content_text": "Insta360 Link 很適合遙距上課教學用。\n\n<img src=\"uploads/2022/8b37d8669b.jpg\" width=\"600\" height=\"374\" alt=\"\" /><img src=\"uploads/2022/86a929c950.jpg\" width=\"600\" height=\"374\" alt=\"\" /><img src=\"uploads/2022/05df66b27f.jpg\" width=\"600\" height=\"374\" alt=\"\" /><img src=\"uploads/2022/2e52b0b130.png\" width=\"600\" height=\"277\" alt=\"\" />\n",
+				"date_published": "2022-08-09T00:44:41+08:00",
+				"url": "https://micro.makzan.blog/2022/08/09/insta-link.html"
+			},
+			{
+				"id": "http://makzan.micro.blog/2022/08/09/comparing-insta-link.html",
+				
+				"content_html": "<p>Comparing Insta360 Link 4K camera and Logitech Brio 4K camera. <a href=\"https://youtu.be/PFm0xUWv3PQ\">youtu.be/PFm0xUWv3&hellip;</a></p>\n",
+				"content_text": "Comparing Insta360 Link 4K camera and Logitech Brio 4K camera. [youtu.be/PFm0xUWv3...](https://youtu.be/PFm0xUWv3PQ)\n",
+				"date_published": "2022-08-09T00:43:22+08:00",
+				"url": "https://micro.makzan.blog/2022/08/09/comparing-insta-link.html"
+			},
+			{
+				"id": "http://makzan.micro.blog/2022/08/08/new-toy-insta.html",
+				
+				"content_html": "<p>New toy: Insta360 Link.</p>\n\n<p><img src=\"https://micro.makzan.blog/uploads/2022/c96c51c5ee.jpg\" width=\"599\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "New toy: Insta360 Link. \n\n<img src=\"https://micro.makzan.blog/uploads/2022/c96c51c5ee.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-08-08T22:35:59+08:00",
+				"url": "https://micro.makzan.blog/2022/08/08/new-toy-insta.html"
+			},
+			{
 				"id": "http://makzan.micro.blog/2022/08/08/started-another-hour.html",
 				
-				"content_html": "<p>Started another 36-hour python class.</p>\n\n<p><img src=\"uploads/2022/7b839663f5.jpg\" width=\"600\" height=\"599\" alt=\"\" /></p>\n",
-				"content_text": "Started another 36-hour python class. \n\n<img src=\"uploads/2022/7b839663f5.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
+				"content_html": "<p>Started another 36-hour python class.</p>\n\n<p><img src=\"https://micro.makzan.blog/uploads/2022/7b839663f5.jpg\" width=\"600\" height=\"599\" alt=\"\" /></p>\n",
+				"content_text": "Started another 36-hour python class. \n\n<img src=\"https://micro.makzan.blog/uploads/2022/7b839663f5.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
 				"date_published": "2022-08-08T22:03:02+08:00",
 				"url": "https://micro.makzan.blog/2022/08/08/started-another-hour.html"
 			},
 			{
 				"id": "http://makzan.micro.blog/2022/08/08/the-only-way.html",
 				
-				"content_html": "<p>“The only way to get more done is to have less to do.”—Jason Fried, David Heinemeier Hansson, It Doesn&rsquo;t Have to Be Crazy at Work</p>\n\n<p><img src=\"uploads/2022/507f9c0111.png\" width=\"600\" height=\"337\" alt=\"\" /></p>\n",
-				"content_text": "“The only way to get more done is to have less to do.”—Jason Fried, David Heinemeier Hansson, It Doesn't Have to Be Crazy at Work\n\n<img src=\"uploads/2022/507f9c0111.png\" width=\"600\" height=\"337\" alt=\"\" />\n",
+				"content_html": "<p>“The only way to get more done is to have less to do.”—Jason Fried, David Heinemeier Hansson, It Doesn&rsquo;t Have to Be Crazy at Work</p>\n\n<p><img src=\"https://micro.makzan.blog/uploads/2022/507f9c0111.png\" width=\"600\" height=\"337\" alt=\"\" /></p>\n",
+				"content_text": "“The only way to get more done is to have less to do.”—Jason Fried, David Heinemeier Hansson, It Doesn't Have to Be Crazy at Work\n\n<img src=\"https://micro.makzan.blog/uploads/2022/507f9c0111.png\" width=\"600\" height=\"337\" alt=\"\" />\n",
 				"date_published": "2022-08-08T14:40:40+08:00",
 				"url": "https://micro.makzan.blog/2022/08/08/the-only-way.html"
 			},
 			{
 				"id": "http://makzan.micro.blog/2022/08/07/182329.html",
 				
-				"content_html": "<p>歸去。</p>\n\n<p><img src=\"uploads/2022/ba0fad56fb.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "歸去。\n\n<img src=\"uploads/2022/ba0fad56fb.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>歸去。</p>\n\n<p><img src=\"https://micro.makzan.blog/uploads/2022/ba0fad56fb.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "歸去。\n\n<img src=\"https://micro.makzan.blog/uploads/2022/ba0fad56fb.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-08-07T18:23:29+08:00",
 				"url": "https://micro.makzan.blog/2022/08/07/182329.html"
 			},
 			{
 				"id": "http://makzan.micro.blog/2022/08/07/162902.html",
 				
-				"content_html": "<p>在安寧的校園閱讀，迎接未來一周的橫風橫雨。</p>\n\n<p><img src=\"uploads/2022/1901a79829.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "在安寧的校園閱讀，迎接未來一周的橫風橫雨。\n\n<img src=\"uploads/2022/1901a79829.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>在安寧的校園閱讀，迎接未來一周的橫風橫雨。</p>\n\n<p><img src=\"https://micro.makzan.blog/uploads/2022/1901a79829.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "在安寧的校園閱讀，迎接未來一周的橫風橫雨。\n\n<img src=\"https://micro.makzan.blog/uploads/2022/1901a79829.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-08-07T16:29:02+08:00",
 				"url": "https://micro.makzan.blog/2022/08/07/162902.html"
 			},
 			{
 				"id": "http://makzan.micro.blog/2022/08/05/set-up-a.html",
 				
-				"content_html": "<p>Set up a LIVE studio for tonight&rsquo;s event.</p>\n\n<p><img src=\"uploads/2022/b432ee4304.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "Set up a LIVE studio for tonight's event. \n\n<img src=\"uploads/2022/b432ee4304.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Set up a LIVE studio for tonight&rsquo;s event.</p>\n\n<p><img src=\"https://micro.makzan.blog/uploads/2022/b432ee4304.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Set up a LIVE studio for tonight's event. \n\n<img src=\"https://micro.makzan.blog/uploads/2022/b432ee4304.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-08-05T21:24:05+08:00",
 				"url": "https://micro.makzan.blog/2022/08/05/set-up-a.html"
 			},
@@ -65,8 +161,8 @@
 			{
 				"id": "http://makzan.micro.blog/2022/08/04/185721.html",
 				
-				"content_html": "<p>回家路過順手買本書：個人品牌</p>\n\n<p><img src=\"uploads/2022/47cbeb4957.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "回家路過順手買本書：個人品牌\n\n<img src=\"uploads/2022/47cbeb4957.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>回家路過順手買本書：個人品牌</p>\n\n<p><img src=\"https://micro.makzan.blog/uploads/2022/47cbeb4957.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "回家路過順手買本書：個人品牌\n\n<img src=\"https://micro.makzan.blog/uploads/2022/47cbeb4957.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-08-04T18:57:21+08:00",
 				"url": "https://micro.makzan.blog/2022/08/04/185721.html"
 			},
