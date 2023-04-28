@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://makzan.micro.blog/2023/04/25/mark-mark.html",
+				
+				"content_html": "<p>原來 Mark 了今日 11:50 睇直播。但沒有 Mark 睇甚麼直播 😜</p>\n",
+				"content_text": "原來 Mark 了今日 11:50 睇直播。但沒有 Mark 睇甚麼直播 😜\n",
+				"date_published": "2023-04-25T16:13:05+08:00",
+				"url": "https://micro.makzan.blog/2023/04/25/mark-mark.html"
+			},
+			{
+				"id": "http://makzan.micro.blog/2023/04/25/160942.html",
+				
+				"content_html": "<p>成功不是終點，\n失敗也不是終結，\n繼續前進才是最重要的。</p>\n\n<p><img src=\"uploads/2023/1ebacd5041.jpg\" width=\"600\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "成功不是終點，\n失敗也不是終結，\n繼續前進才是最重要的。\n\n<img src=\"uploads/2023/1ebacd5041.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-04-25T16:09:42+08:00",
+				"url": "https://micro.makzan.blog/2023/04/25/160942.html"
+			},
+			{
+				"id": "http://makzan.micro.blog/2023/04/25/how-i-use.html",
+				
+				"content_html": "<p>How I use iPad with keyboard. This position empowers me to both type and draw conveniently.</p>\n\n<p><img src=\"uploads/2023/789fcbdce4.jpg\" width=\"600\" height=\"512\" alt=\"\"></p>\n",
+				"content_text": "How I use iPad with keyboard. This position empowers me to both type and draw conveniently. \n\n<img src=\"uploads/2023/789fcbdce4.jpg\" width=\"600\" height=\"512\" alt=\"\">\n",
+				"date_published": "2023-04-25T13:55:11+08:00",
+				"url": "https://micro.makzan.blog/2023/04/25/how-i-use.html"
+			},
+			{
+				"id": "http://makzan.micro.blog/2023/04/25/102826.html",
+				
+				"content_html": "<p>書櫃一角。</p>\n\n<p><img src=\"uploads/2023/e4aa05e42d.jpg\" width=\"600\" height=\"450\" alt=\"\"></p>\n",
+				"content_text": "書櫃一角。\n\n<img src=\"uploads/2023/e4aa05e42d.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-04-25T10:28:26+08:00",
+				"url": "https://micro.makzan.blog/2023/04/25/102826.html"
+			},
+			{
 				"id": "http://makzan.micro.blog/2023/04/22/todays-topic-build.html",
 				
 				"content_html": "<p>Today&rsquo;s topic: build your own grid framework.</p>\n\n<p><img src=\"uploads/2023/392649932e.jpg\" width=\"600\" height=\"600\" alt=\"\"></p>\n",
@@ -17,32 +49,32 @@
 			{
 				"id": "http://makzan.micro.blog/2023/04/21/133600.html",
 				
-				"content_html": "<p>好書分享會：《人生的四千個禮拜》《我可能錯了》</p>\n\n<p><img src=\"uploads/2023/2009a892db.jpg\" width=\"600\" height=\"450\" alt=\"\"></p>\n",
-				"content_text": "好書分享會：《人生的四千個禮拜》《我可能錯了》\n\n<img src=\"uploads/2023/2009a892db.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_html": "<p>好書分享會：《人生的四千個禮拜》《我可能錯了》</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/34483/2023/2009a892db.jpg\" width=\"600\" height=\"450\" alt=\"\"></p>\n",
+				"content_text": "好書分享會：《人生的四千個禮拜》《我可能錯了》\n\n<img src=\"https://cdn.uploads.micro.blog/34483/2023/2009a892db.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-04-21T13:36:00+08:00",
 				"url": "https://micro.makzan.blog/2023/04/21/133600.html"
 			},
 			{
 				"id": "http://makzan.micro.blog/2023/04/21/121212.html",
 				
-				"content_html": "<p>想像力比知識更重要。</p>\n\n<p><img src=\"uploads/2023/eb35e22a96.jpg\" width=\"600\" height=\"600\" alt=\"\"></p>\n",
-				"content_text": "想像力比知識更重要。\n\n<img src=\"uploads/2023/eb35e22a96.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>想像力比知識更重要。</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/34483/2023/eb35e22a96.jpg\" width=\"600\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "想像力比知識更重要。\n\n<img src=\"https://cdn.uploads.micro.blog/34483/2023/eb35e22a96.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-04-21T12:12:12+08:00",
 				"url": "https://micro.makzan.blog/2023/04/21/121212.html"
 			},
 			{
 				"id": "http://makzan.micro.blog/2023/04/19/160325.html",
 				"title": "聽課不止聽一次",
-				"content_html": "<p>近年我學習的一個主要渠道是 Coursera、edX、YouTube、Atomy Ch。一方面，我會利用人工智能讀取字幕，整理出片段的總結說明文字。另一方面，遇上重要的學習短片，我必定會下載至電話，一而再、再而三的反覆觀看。</p>\n\n<ol>\n<li>第一次聽，我聽到的是新認知。此時腦海中新的神經元連線粗略形成，但未結實。</li>\n<li>第二次聽，我開始聽明白表面意思，神經元的連接變得紮實，亦有機會與過往的經驗及其他知識點關聯起來。</li>\n<li>第三次聽，可以驗證剛剛建立的聯繫是否有效。</li>\n<li>第四次聽，開始更深層的領略字裏行間的意思，包括會對每個詞語及每個數字有更深刻的參透，及沒有寫出來的文字間的意思。</li>\n<li>第五次聽，可以再挖深，並開始能舉一反三。悟出箇中玄機。</li>\n</ol>\n\n<p><img src=\"uploads/2023/531d062760.jpg\" width=\"364\" height=\"600\" alt=\"\"></p>\n",
-				"content_text": "近年我學習的一個主要渠道是 Coursera、edX、YouTube、Atomy Ch。一方面，我會利用人工智能讀取字幕，整理出片段的總結說明文字。另一方面，遇上重要的學習短片，我必定會下載至電話，一而再、再而三的反覆觀看。\n\n1. 第一次聽，我聽到的是新認知。此時腦海中新的神經元連線粗略形成，但未結實。\n2. 第二次聽，我開始聽明白表面意思，神經元的連接變得紮實，亦有機會與過往的經驗及其他知識點關聯起來。\n3. 第三次聽，可以驗證剛剛建立的聯繫是否有效。\n4. 第四次聽，開始更深層的領略字裏行間的意思，包括會對每個詞語及每個數字有更深刻的參透，及沒有寫出來的文字間的意思。\n5. 第五次聽，可以再挖深，並開始能舉一反三。悟出箇中玄機。\n\n\n<img src=\"uploads/2023/531d062760.jpg\" width=\"364\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>近年我學習的一個主要渠道是 Coursera、edX、YouTube、Atomy Ch。一方面，我會利用人工智能讀取字幕，整理出片段的總結說明文字。另一方面，遇上重要的學習短片，我必定會下載至電話，一而再、再而三的反覆觀看。</p>\n\n<ol>\n<li>第一次聽，我聽到的是新認知。此時腦海中新的神經元連線粗略形成，但未結實。</li>\n<li>第二次聽，我開始聽明白表面意思，神經元的連接變得紮實，亦有機會與過往的經驗及其他知識點關聯起來。</li>\n<li>第三次聽，可以驗證剛剛建立的聯繫是否有效。</li>\n<li>第四次聽，開始更深層的領略字裏行間的意思，包括會對每個詞語及每個數字有更深刻的參透，及沒有寫出來的文字間的意思。</li>\n<li>第五次聽，可以再挖深，並開始能舉一反三。悟出箇中玄機。</li>\n</ol>\n\n<p><img src=\"https://cdn.uploads.micro.blog/34483/2023/531d062760.jpg\" width=\"364\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "近年我學習的一個主要渠道是 Coursera、edX、YouTube、Atomy Ch。一方面，我會利用人工智能讀取字幕，整理出片段的總結說明文字。另一方面，遇上重要的學習短片，我必定會下載至電話，一而再、再而三的反覆觀看。\n\n1. 第一次聽，我聽到的是新認知。此時腦海中新的神經元連線粗略形成，但未結實。\n2. 第二次聽，我開始聽明白表面意思，神經元的連接變得紮實，亦有機會與過往的經驗及其他知識點關聯起來。\n3. 第三次聽，可以驗證剛剛建立的聯繫是否有效。\n4. 第四次聽，開始更深層的領略字裏行間的意思，包括會對每個詞語及每個數字有更深刻的參透，及沒有寫出來的文字間的意思。\n5. 第五次聽，可以再挖深，並開始能舉一反三。悟出箇中玄機。\n\n\n<img src=\"https://cdn.uploads.micro.blog/34483/2023/531d062760.jpg\" width=\"364\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-04-19T16:03:25+08:00",
 				"url": "https://micro.makzan.blog/2023/04/19/160325.html"
 			},
 			{
 				"id": "http://makzan.micro.blog/2023/04/18/112451.html",
 				
-				"content_html": "<p>主動去找這本書來讀的人，會否都是被掏空了的？</p>\n\n<p><img src=\"uploads/2023/dcf0c15c79.jpg\" width=\"492\" height=\"600\" alt=\"\"></p>\n",
-				"content_text": "主動去找這本書來讀的人，會否都是被掏空了的？\n\n<img src=\"uploads/2023/dcf0c15c79.jpg\" width=\"492\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>主動去找這本書來讀的人，會否都是被掏空了的？</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/34483/2023/dcf0c15c79.jpg\" width=\"492\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "主動去找這本書來讀的人，會否都是被掏空了的？\n\n<img src=\"https://cdn.uploads.micro.blog/34483/2023/dcf0c15c79.jpg\" width=\"492\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-04-18T11:24:51+08:00",
 				"url": "https://micro.makzan.blog/2023/04/18/112451.html"
 			},
