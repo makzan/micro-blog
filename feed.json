@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://makzan.micro.blog/2023/05/08/dive-into-dsec.html",
+				
+				"content_html": "<p>📊 Dive into DSEC Tourism data using Python and Pandas\n⠀⠀\n🔍 Explore Macao&rsquo;s tourism trends with just a few lines of code!</p>\n\n<p><img src=\"uploads/2023/65db7e33a1.jpg\" width=\"480\" height=\"600\" alt=\"\"><img src=\"uploads/2023/7211ee47cd.jpg\" width=\"480\" height=\"600\" alt=\"\"><img src=\"uploads/2023/4564b15323.jpg\" width=\"480\" height=\"600\" alt=\"\"><img src=\"uploads/2023/bc2f1c8d2c.jpg\" width=\"480\" height=\"600\" alt=\"\"><img src=\"uploads/2023/0f6789c2f6.jpg\" width=\"480\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "📊 Dive into DSEC Tourism data using Python and Pandas\n⠀⠀\n🔍 Explore Macao's tourism trends with just a few lines of code! \n\n<img src=\"uploads/2023/65db7e33a1.jpg\" width=\"480\" height=\"600\" alt=\"\"><img src=\"uploads/2023/7211ee47cd.jpg\" width=\"480\" height=\"600\" alt=\"\"><img src=\"uploads/2023/4564b15323.jpg\" width=\"480\" height=\"600\" alt=\"\"><img src=\"uploads/2023/bc2f1c8d2c.jpg\" width=\"480\" height=\"600\" alt=\"\"><img src=\"uploads/2023/0f6789c2f6.jpg\" width=\"480\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-05-08T19:24:03+08:00",
+				"url": "https://micro.makzan.blog/2023/05/08/dive-into-dsec.html"
+			},
+			{
+				"id": "http://makzan.micro.blog/2023/05/01/011604.html",
+				
+				"content_html": "<p>讀好書 《教練》</p>\n\n<p><img src=\"uploads/2023/9e3782cb86.jpg\" width=\"450\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "讀好書 《教練》\n\n<img src=\"uploads/2023/9e3782cb86.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-05-01T01:16:04+08:00",
+				"url": "https://micro.makzan.blog/2023/05/01/011604.html"
+			},
+			{
+				"id": "http://makzan.micro.blog/2023/05/01/002238.html",
+				
+				"content_html": "<p>4月28日在國華登台講解艾多美公司大眾精品戰略及三大文化 💪🏻</p>\n\n<p><img src=\"uploads/2023/872b0d25f4.jpg\" width=\"600\" height=\"555\" alt=\"\"></p>\n",
+				"content_text": "4月28日在國華登台講解艾多美公司大眾精品戰略及三大文化 💪🏻\n\n<img src=\"uploads/2023/872b0d25f4.jpg\" width=\"600\" height=\"555\" alt=\"\">\n",
+				"date_published": "2023-05-01T00:22:38+08:00",
+				"url": "https://micro.makzan.blog/2023/05/01/002238.html"
+			},
+			{
 				"id": "http://makzan.micro.blog/2023/04/25/mark-mark.html",
 				
 				"content_html": "<p>原來 Mark 了今日 11:50 睇直播。但沒有 Mark 睇甚麼直播 😜</p>\n",
@@ -25,24 +49,24 @@
 			{
 				"id": "http://makzan.micro.blog/2023/04/25/how-i-use.html",
 				
-				"content_html": "<p>How I use iPad with keyboard. This position empowers me to both type and draw conveniently.</p>\n\n<p><img src=\"uploads/2023/789fcbdce4.jpg\" width=\"600\" height=\"512\" alt=\"\"></p>\n",
-				"content_text": "How I use iPad with keyboard. This position empowers me to both type and draw conveniently. \n\n<img src=\"uploads/2023/789fcbdce4.jpg\" width=\"600\" height=\"512\" alt=\"\">\n",
+				"content_html": "<p>How I use iPad with keyboard. This position empowers me to both type and draw conveniently.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/34483/2023/789fcbdce4.jpg\" width=\"600\" height=\"512\" alt=\"\"></p>\n",
+				"content_text": "How I use iPad with keyboard. This position empowers me to both type and draw conveniently. \n\n<img src=\"https://cdn.uploads.micro.blog/34483/2023/789fcbdce4.jpg\" width=\"600\" height=\"512\" alt=\"\">\n",
 				"date_published": "2023-04-25T13:55:11+08:00",
 				"url": "https://micro.makzan.blog/2023/04/25/how-i-use.html"
 			},
 			{
 				"id": "http://makzan.micro.blog/2023/04/25/102826.html",
 				
-				"content_html": "<p>書櫃一角。</p>\n\n<p><img src=\"uploads/2023/e4aa05e42d.jpg\" width=\"600\" height=\"450\" alt=\"\"></p>\n",
-				"content_text": "書櫃一角。\n\n<img src=\"uploads/2023/e4aa05e42d.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_html": "<p>書櫃一角。</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/34483/2023/e4aa05e42d.jpg\" width=\"600\" height=\"450\" alt=\"\"></p>\n",
+				"content_text": "書櫃一角。\n\n<img src=\"https://cdn.uploads.micro.blog/34483/2023/e4aa05e42d.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-04-25T10:28:26+08:00",
 				"url": "https://micro.makzan.blog/2023/04/25/102826.html"
 			},
 			{
 				"id": "http://makzan.micro.blog/2023/04/22/todays-topic-build.html",
 				
-				"content_html": "<p>Today&rsquo;s topic: build your own grid framework.</p>\n\n<p><img src=\"uploads/2023/392649932e.jpg\" width=\"600\" height=\"600\" alt=\"\"></p>\n",
-				"content_text": "Today's topic: build your own grid framework. \n\n<img src=\"uploads/2023/392649932e.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>Today&rsquo;s topic: build your own grid framework.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/34483/2023/392649932e.jpg\" width=\"600\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "Today's topic: build your own grid framework. \n\n<img src=\"https://cdn.uploads.micro.blog/34483/2023/392649932e.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-04-22T20:37:01+08:00",
 				"url": "https://micro.makzan.blog/2023/04/22/todays-topic-build.html"
 			},
