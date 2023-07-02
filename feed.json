@@ -7,42 +7,82 @@
 	"items": [
 		
 			{
+				"id": "http://makzan.micro.blog/2023/07/02/premiere.html",
+				
+				"content_html": "<p>上課學習 Premiere。</p>\n",
+				"content_text": "上課學習 Premiere。\n",
+				"date_published": "2023-07-02T12:20:59+08:00",
+				"url": "https://micro.makzan.blog/2023/07/02/premiere.html"
+			},
+			{
+				"id": "http://makzan.micro.blog/2023/06/15/markdown-slides-with.html",
+				
+				"content_html": "<p>Markdown slides with Deckset saves me lots of time.</p>\n\n<p><img src=\"uploads/2023/f5799bf563.jpg\" width=\"600\" height=\"450\" alt=\"\"></p>\n",
+				"content_text": "Markdown slides with Deckset saves me lots of time. \n\n<img src=\"uploads/2023/f5799bf563.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-06-15T13:13:41+08:00",
+				"url": "https://micro.makzan.blog/2023/06/15/markdown-slides-with.html"
+			},
+			{
+				"id": "http://makzan.micro.blog/2023/06/13/another-python-class.html",
+				
+				"content_html": "<p>Another Python class on web scraping.</p>\n\n<p><img src=\"uploads/2023/b93b510993.jpg\" width=\"600\" height=\"450\" alt=\"\"></p>\n",
+				"content_text": "Another Python class on web scraping. \n\n<img src=\"uploads/2023/b93b510993.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-06-13T22:35:31+08:00",
+				"url": "https://micro.makzan.blog/2023/06/13/another-python-class.html"
+			},
+			{
+				"id": "http://makzan.micro.blog/2023/06/13/151203.html",
+				
+				"content_html": "<p>兩本好書推介 📚</p>\n\n<p><img src=\"uploads/2023/a60a347573.jpg\" width=\"450\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "兩本好書推介 📚\n\n<img src=\"uploads/2023/a60a347573.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-06-13T15:12:03+08:00",
+				"url": "https://micro.makzan.blog/2023/06/13/151203.html"
+			},
+			{
+				"id": "http://makzan.micro.blog/2023/06/11/160703.html",
+				
+				"content_html": "<p>帶小兒做遊客遊大三巴。</p>\n\n<p><img src=\"uploads/2023/c034665358.jpg\" width=\"450\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "帶小兒做遊客遊大三巴。\n\n<img src=\"uploads/2023/c034665358.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-06-11T16:07:03+08:00",
+				"url": "https://micro.makzan.blog/2023/06/11/160703.html"
+			},
+			{
 				"id": "http://makzan.micro.blog/2023/06/10/good-afternoon.html",
 				
-				"content_html": "<p>Good afternoon.</p>\n\n<p><img src=\"uploads/2023/2d0abaa255.jpg\" width=\"450\" height=\"600\" alt=\"\"></p>\n",
-				"content_text": "Good afternoon. \n\n<img src=\"uploads/2023/2d0abaa255.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>Good afternoon.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/34483/2023/2d0abaa255.jpg\" width=\"450\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "Good afternoon. \n\n<img src=\"https://cdn.uploads.micro.blog/34483/2023/2d0abaa255.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-06-10T16:23:06+08:00",
 				"url": "https://micro.makzan.blog/2023/06/10/good-afternoon.html"
 			},
 			{
 				"id": "http://makzan.micro.blog/2023/06/09/doodling.html",
 				
-				"content_html": "<p>Doodling.</p>\n\n<p><img src=\"uploads/2023/1b8121b574.jpg\" width=\"338\" height=\"600\" alt=\"\"></p>\n",
-				"content_text": "Doodling. \n\n<img src=\"uploads/2023/1b8121b574.jpg\" width=\"338\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>Doodling.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/34483/2023/1b8121b574.jpg\" width=\"338\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "Doodling. \n\n<img src=\"https://cdn.uploads.micro.blog/34483/2023/1b8121b574.jpg\" width=\"338\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-06-09T12:21:50+08:00",
 				"url": "https://micro.makzan.blog/2023/06/09/doodling.html"
 			},
 			{
 				"id": "http://makzan.micro.blog/2023/06/07/morning-macao.html",
 				
-				"content_html": "<p>Morning, Macao.</p>\n\n<p><img src=\"uploads/2023/8514371484.jpg\" width=\"450\" height=\"600\" alt=\"\"></p>\n",
-				"content_text": "Morning, Macao. \n\n<img src=\"uploads/2023/8514371484.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>Morning, Macao.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/34483/2023/8514371484.jpg\" width=\"450\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "Morning, Macao. \n\n<img src=\"https://cdn.uploads.micro.blog/34483/2023/8514371484.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-06-07T08:26:20+08:00",
 				"url": "https://micro.makzan.blog/2023/06/07/morning-macao.html"
 			},
 			{
 				"id": "http://makzan.micro.blog/2023/06/06/082834.html",
 				
-				"content_html": "<p>就這樣錯過了記錄生活點滴的時機。</p>\n\n<p><img src=\"uploads/2023/6b72db4789.jpg\" width=\"277\" height=\"600\" alt=\"\"></p>\n",
-				"content_text": "就這樣錯過了記錄生活點滴的時機。\n\n<img src=\"uploads/2023/6b72db4789.jpg\" width=\"277\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>就這樣錯過了記錄生活點滴的時機。</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/34483/2023/6b72db4789.jpg\" width=\"277\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "就這樣錯過了記錄生活點滴的時機。\n\n<img src=\"https://cdn.uploads.micro.blog/34483/2023/6b72db4789.jpg\" width=\"277\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-06-06T08:28:34+08:00",
 				"url": "https://micro.makzan.blog/2023/06/06/082834.html"
 			},
 			{
 				"id": "http://makzan.micro.blog/2023/06/05/heptabase-httpswwwyoutubecomwatchvdkhjosyze.html",
 				
-				"content_html": "<p>今晚 11:30：麥誠直播 #29—使用 Heptabase 打造個人知識地圖</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=D7k5hJoSYZE\">www.youtube.com/watch</a></p>\n\n<p><img src=\"uploads/2023/f6394abd1f.jpg\" width=\"600\" height=\"337\" alt=\"\"></p>\n",
-				"content_text": "今晚 11:30：麥誠直播 #29—使用 Heptabase 打造個人知識地圖\n\n[www.youtube.com/watch](https://www.youtube.com/watch?v=D7k5hJoSYZE)\n\n<img src=\"uploads/2023/f6394abd1f.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_html": "<p>今晚 11:30：麥誠直播 #29—使用 Heptabase 打造個人知識地圖</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=D7k5hJoSYZE\">www.youtube.com/watch</a></p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/34483/2023/f6394abd1f.jpg\" width=\"600\" height=\"337\" alt=\"\"></p>\n",
+				"content_text": "今晚 11:30：麥誠直播 #29—使用 Heptabase 打造個人知識地圖\n\n[www.youtube.com/watch](https://www.youtube.com/watch?v=D7k5hJoSYZE)\n\n<img src=\"https://cdn.uploads.micro.blog/34483/2023/f6394abd1f.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2023-06-05T21:49:00+08:00",
 				"url": "https://micro.makzan.blog/2023/06/05/heptabase-httpswwwyoutubecomwatchvdkhjosyze.html"
 			},
@@ -129,16 +169,16 @@
 			{
 				"id": "http://makzan.micro.blog/2023/05/01/011604.html",
 				
-				"content_html": "<p>讀好書 《教練》</p>\n\n<p><img src=\"uploads/2023/9e3782cb86.jpg\" width=\"450\" height=\"600\" alt=\"\"></p>\n",
-				"content_text": "讀好書 《教練》\n\n<img src=\"uploads/2023/9e3782cb86.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>讀好書 《教練》</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/34483/2023/9e3782cb86.jpg\" width=\"450\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "讀好書 《教練》\n\n<img src=\"https://cdn.uploads.micro.blog/34483/2023/9e3782cb86.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-05-01T01:16:04+08:00",
 				"url": "https://micro.makzan.blog/2023/05/01/011604.html"
 			},
 			{
 				"id": "http://makzan.micro.blog/2023/05/01/002238.html",
 				
-				"content_html": "<p>4月28日在國華登台講解艾多美公司大眾精品戰略及三大文化 💪🏻</p>\n\n<p><img src=\"uploads/2023/872b0d25f4.jpg\" width=\"600\" height=\"555\" alt=\"\"></p>\n",
-				"content_text": "4月28日在國華登台講解艾多美公司大眾精品戰略及三大文化 💪🏻\n\n<img src=\"uploads/2023/872b0d25f4.jpg\" width=\"600\" height=\"555\" alt=\"\">\n",
+				"content_html": "<p>4月28日在國華登台講解艾多美公司大眾精品戰略及三大文化 💪🏻</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/34483/2023/872b0d25f4.jpg\" width=\"600\" height=\"555\" alt=\"\"></p>\n",
+				"content_text": "4月28日在國華登台講解艾多美公司大眾精品戰略及三大文化 💪🏻\n\n<img src=\"https://cdn.uploads.micro.blog/34483/2023/872b0d25f4.jpg\" width=\"600\" height=\"555\" alt=\"\">\n",
 				"date_published": "2023-05-01T00:22:38+08:00",
 				"url": "https://micro.makzan.blog/2023/05/01/002238.html"
 			},
@@ -153,8 +193,8 @@
 			{
 				"id": "http://makzan.micro.blog/2023/04/25/160942.html",
 				
-				"content_html": "<p>成功不是終點，\n失敗也不是終結，\n繼續前進才是最重要的。</p>\n\n<p><img src=\"uploads/2023/1ebacd5041.jpg\" width=\"600\" height=\"600\" alt=\"\"></p>\n",
-				"content_text": "成功不是終點，\n失敗也不是終結，\n繼續前進才是最重要的。\n\n<img src=\"uploads/2023/1ebacd5041.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>成功不是終點，\n失敗也不是終結，\n繼續前進才是最重要的。</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/34483/2023/1ebacd5041.jpg\" width=\"600\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "成功不是終點，\n失敗也不是終結，\n繼續前進才是最重要的。\n\n<img src=\"https://cdn.uploads.micro.blog/34483/2023/1ebacd5041.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-04-25T16:09:42+08:00",
 				"url": "https://micro.makzan.blog/2023/04/25/160942.html"
 			},
