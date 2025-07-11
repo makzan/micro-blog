@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://makzan.micro.blog/2025/07/11/ease-in-out/",
+				
+				"content_html": "<p>遇到可以講得深入的聽眾。計上次「用見山仍是山」來講編程後，今次將 ease in out 動畫函數融入人生四曲線，再借用我的創業經驗講解底層的穿透及堅持與空杯的藝術。</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "遇到可以講得深入的聽眾。計上次「用見山仍是山」來講編程後，今次將 ease in out 動畫函數融入人生四曲線，再借用我的創業經驗講解底層的穿透及堅持與空杯的藝術。\n\n<img src=\"uploads/2025/4b5c74924a.jpg\" width=\"600\" height=\"339\" alt=\"\">\n",
+				"date_published": "2025-07-11T21:59:27+08:00",
+				"url": "https://blog.makzan.net/2025/07/11/ease-in-out/"
+			},
+			{
+				"id": "http://makzan.micro.blog/2025/07/09/015415/",
+				
+				"content_html": "<p>剪完頭髮分享果然特別醒神。</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "剪完頭髮分享果然特別醒神。\n\n<img src=\"uploads/2025/3071371397.jpg\" width=\"600\" height=\"337\" alt=\"A speaker is presenting to an audience in a room with a large screen displaying product images.\">\n",
+				"date_published": "2025-07-09T01:54:15+08:00",
+				"url": "https://blog.makzan.net/2025/07/09/015415/"
+			},
+			{
 				"id": "http://makzan.micro.blog/2025/07/07/teaching-the-behind-the-scenes/",
 				
 				"content_html": "<p>Teaching the behind the scenes of git version control.</p>\n<!-- raw HTML omitted -->\n",
@@ -42,7 +58,7 @@
 				"id": "http://makzan.micro.blog/2025/01/23/213550/",
 				
 				"content_html": "<p>夜色漸濃的澳門，繁忙落幕的街道。</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "夜色漸濃的澳門，繁忙落幕的街道。\n\n<img src=\"uploads/2025/f83fa083a2.png\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "夜色漸濃的澳門，繁忙落幕的街道。\n\n<img src=\"https://makzan.micro.blog/uploads/2025/f83fa083a2.png\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-01-23T21:35:50+08:00",
 				"url": "https://blog.makzan.net/2025/01/23/213550/"
 			},
